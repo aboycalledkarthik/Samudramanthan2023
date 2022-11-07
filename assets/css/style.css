@@ -1585,8 +1585,35 @@ section {
   transition: 0.3s;
 }
 
-#footer .social-links a:hover {
-  background: #3ac162;
+/* #footer .social-links a:hover {
+  background: #00acee;
+  color: #fff;
+  text-decoration: none;
+} */
+
+#footer .twitter:hover{
+  background: #00acee;
   color: #fff;
   text-decoration: none;
 }
+#footer .facebook:hover{
+  background: #3b5998;
+  color: #fff;
+  text-decoration: none;
+}
+#footer .instagram:hover{
+  background: #8a3ab9;
+  color: #fff;
+  text-decoration: none;
+}
+#footer .google-plus:hover{
+  background: #db4a39;
+  color: #fff;
+  text-decoration: none;
+}
+#footer .linkedin:hover{
+  background: #0A66C2;
+  color: #fff;
+  text-decoration: none;
+}
+
